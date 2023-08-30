@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @sagar-dhule
+# 👋 Hi, I’m sagar-dhule
 
 Welcome to my GitHub profile! I'm passionate about technology and coding, and I'm always excited to learn and collaborate on new projects.
 
